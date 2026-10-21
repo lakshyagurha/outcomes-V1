@@ -1,0 +1,1143 @@
+[
+  {
+    "sectors": [],
+    "summary": "Your campus E-cell's programme for students who want to find and shape an idea.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Details vary by college. Ask your E-cell coordinator."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "college-ecell-preincubation",
+    "name": "[College Name] E-Cell Pre-incubation",
+    "organisation": "[College Name] E-Cell",
+    "type": "incubator",
+    "stages_accepted": [
+      "Exploring",
+      "Idea",
+      "Validating"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": true,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": "Confirm with your E-cell."
+    },
+    "what_they_look_for": [
+      "Commitment to attend sessions",
+      "A problem you care about",
+      "Willingness to talk to users"
+    ],
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": true
+    },
+    "application_link": ""
+  },
+  {
+    "sectors": [],
+    "summary": "Your college's incubator for student and alumni startups with a working prototype.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Check whether the incubator takes equity before signing."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "college-tbi",
+    "name": "[College Name] Technology Business Incubator",
+    "organisation": "[College Name]",
+    "type": "incubator",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": true,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Working prototype or clear build plan",
+      "User evidence",
+      "Committed founding team"
+    ],
+    "application_link": "",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "Government seed funding for proof of concept, prototypes and market entry, disbursed through approved incubators.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "You need to register a company and get DPIIT recognition first.",
+      "Later funding may be debt or convertible rather than a grant. Read the terms."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "startup-india-seed-fund",
+    "name": "Startup India Seed Fund Scheme",
+    "organisation": "DPIIT, Government of India",
+    "type": "grant",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": "Amount being verified",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "DPIIT-recognised startup",
+      "Technology in the core product or business model",
+      "Clear proof-of-concept plan",
+      "Applying through an approved incubator"
+    ],
+    "fit_signals": {
+      "technical_founder": "preferred",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://seedfund.startupindia.gov.in/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    }
+  },
+  {
+    "sectors": [
+      "Deep Tech / Hardware",
+      "HealthTech",
+      "AgriTech",
+      "ClimateTech",
+      "AI / ML"
+    ],
+    "summary": "Grant support to turn an idea into a working prototype, offered through host incubators (PRAYAS centres).",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "You apply through a specific PRAYAS centre, and each has its own call schedule."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "nidhi-prayas",
+    "name": "NIDHI-PRAYAS",
+    "organisation": "DST, Government of India",
+    "type": "grant",
+    "stages_accepted": [
+      "Idea",
+      "Validating"
+    ],
+    "what_you_get": {
+      "money": "Amount being verified",
+      "mentorship": true,
+      "workspace": true,
+      "network": false
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": "Grant. Confirm terms with the host incubator."
+    },
+    "what_they_look_for": [
+      "A tech-based idea that needs a physical or technical prototype",
+      "Technical ability on the team",
+      "Clear prototype plan and budget"
+    ],
+    "fit_signals": {
+      "technical_founder": "required",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://nidhi.dst.gov.in/"
+  },
+  {
+    "sectors": [],
+    "summary": "Grant-in-aid from the Government of Karnataka for innovative early-stage startups.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Only for startups registered in Karnataka."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "karnataka-elevate",
+    "name": "Karnataka Elevate",
+    "organisation": "Karnataka Startup Cell",
+    "type": "grant",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": "Amount being verified",
+      "mentorship": false,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Startup registered in Karnataka",
+      "Innovative product or service",
+      "Evidence the problem is real"
+    ],
+    "application_link": "https://eitbt.karnataka.gov.in/startup/public/en",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "State support for early-stage innovators and startups in Kerala, including idea-stage grants.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "State-specific eligibility."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "kerala-startup-mission",
+    "name": "Kerala Startup Mission Grants",
+    "organisation": "Kerala Startup Mission",
+    "type": "grant",
+    "stages_accepted": [
+      "Idea",
+      "Validating",
+      "Building"
+    ],
+    "what_you_get": {
+      "money": "Amount being verified",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Connection to Kerala",
+      "Innovative idea",
+      "A plan for the first prototype"
+    ],
+    "application_link": "https://startupmission.kerala.gov.in/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [
+      "AI / ML",
+      "SaaS / B2B",
+      "Deep Tech / Hardware",
+      "HealthTech",
+      "AgriTech",
+      "FinTech"
+    ],
+    "summary": "Support for ICT startups through MeitY-backed incubators across India.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Apply through a participating incubator."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "meity-tide",
+    "name": "MeitY TIDE 2.0",
+    "organisation": "MeitY Startup Hub",
+    "type": "grant",
+    "stages_accepted": [
+      "Validating",
+      "Building"
+    ],
+    "what_you_get": {
+      "money": "Amount being verified",
+      "mentorship": true,
+      "workspace": true,
+      "network": false
+    },
+    "what_they_look_for": [
+      "Technology-led product",
+      "Technical team",
+      "Social or economic impact"
+    ],
+    "fit_signals": {
+      "technical_founder": "required",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://msh.meity.gov.in/schemes/tide",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    }
+  },
+  {
+    "sectors": [
+      "HealthTech",
+      "Deep Tech / Hardware",
+      "AgriTech"
+    ],
+    "summary": "Early-stage grant for biotech and medtech ideas to reach proof of concept.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Highly technical review. You need strong domain expertise."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "birac-big",
+    "name": "BIRAC Biotechnology Ignition Grant",
+    "organisation": "BIRAC, DBT",
+    "type": "grant",
+    "stages_accepted": [
+      "Idea",
+      "Validating"
+    ],
+    "what_you_get": {
+      "money": "Amount being verified",
+      "mentorship": true,
+      "workspace": false,
+      "network": false
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": "Grant. Confirm terms."
+    },
+    "what_they_look_for": [
+      "Scientific novelty",
+      "Technical or research background",
+      "Clear proof-of-concept milestones"
+    ],
+    "fit_signals": {
+      "technical_founder": "required",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://birac.nic.in/"
+  },
+  {
+    "sectors": [],
+    "summary": "IIM Bangalore's programmes for early founders working out problem, customer and business model.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "nsrcel-launchpad",
+    "name": "NSRCEL Pre-incubation",
+    "organisation": "IIM Bangalore",
+    "type": "incubator",
+    "stages_accepted": [
+      "Idea",
+      "Validating"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Clear problem statement",
+      "Early user conversations",
+      "Founder commitment"
+    ],
+    "application_link": "https://nsrcel.org/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "Incubation support for startups with a product in market.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "nsrcel-incubation",
+    "name": "NSRCEL Incubation",
+    "organisation": "IIM Bangalore",
+    "type": "incubator",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": true,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Working product",
+      "Early traction",
+      "Scalable business model"
+    ],
+    "application_link": "https://nsrcel.org/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "IIM Ahmedabad's innovation centre, running sector accelerators and early-stage investment.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Terms differ by programme. Check equity terms for each."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "ciie-co",
+    "name": "CIIE.CO Programs",
+    "organisation": "IIM Ahmedabad",
+    "type": "accelerator",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Product in market",
+      "Traction data",
+      "Sector fit with the specific programme"
+    ],
+    "application_link": "https://iimaventures.com/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [
+      "Deep Tech / Hardware",
+      "AI / ML",
+      "HealthTech",
+      "ClimateTech",
+      "SaaS / B2B"
+    ],
+    "summary": "IIT Bombay's incubator for technology startups.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "sine-iitb",
+    "name": "SINE, IIT Bombay",
+    "organisation": "IIT Bombay",
+    "type": "incubator",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": true,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Technology-based product",
+      "Technical founder",
+      "Prototype or clear build plan"
+    ],
+    "fit_signals": {
+      "technical_founder": "required",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://www.sineiitb.org/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "Incubation and acceleration programmes, many of them sector-specific.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "iimcip",
+    "name": "IIM Calcutta Innovation Park",
+    "organisation": "IIM Calcutta",
+    "type": "incubator",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "User evidence",
+      "Sector fit with current programme",
+      "Committed team"
+    ],
+    "application_link": "https://www.iimcip.org/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "A national network of incubators backed by Atal Innovation Mission, hosted at universities and institutions.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Each centre has its own terms. Ask about equity or fees."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "aim-aic",
+    "name": "Atal Incubation Centres",
+    "organisation": "Atal Innovation Mission, NITI Aayog",
+    "type": "incubator",
+    "stages_accepted": [
+      "Idea",
+      "Validating",
+      "Building"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": true,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Innovative idea",
+      "Fit with the host centre's focus",
+      "Founder commitment"
+    ],
+    "application_link": "https://www.aim.gov.in/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [
+      "Social Impact",
+      "HealthTech",
+      "AgriTech",
+      "ClimateTech"
+    ],
+    "summary": "Incubator for social enterprises in health, agriculture, livelihoods and climate.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "villgro",
+    "name": "Villgro",
+    "organisation": "Villgro",
+    "type": "incubator",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Measurable social impact",
+      "Prototype or pilot",
+      "Path to financial sustainability"
+    ],
+    "application_link": "https://villgro.org/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "Hyderabad-based innovation hub running acceleration programmes, often with corporate partners.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Programmes change often. Check which cohort is open."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "t-hub",
+    "name": "T-Hub Programs",
+    "organisation": "T-Hub, Hyderabad",
+    "type": "accelerator",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue",
+      "Scaling"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": true,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Working product",
+      "Traction",
+      "Fit with the programme's theme or corporate partner"
+    ],
+    "application_link": "https://t-hub.co/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    },
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [
+      "SaaS / B2B",
+      "AI / ML",
+      "FinTech",
+      "HealthTech",
+      "Deep Tech / Hardware"
+    ],
+    "summary": "NASSCOM's startup initiative offering programmes, mentors and industry connections for tech startups.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "nasscom-10k",
+    "name": "NASSCOM 10,000 Startups",
+    "organisation": "NASSCOM",
+    "type": "accelerator",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Tech product",
+      "Early customers",
+      "Scalability"
+    ],
+    "fit_signals": {
+      "technical_founder": "preferred",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://nasscom.in/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    }
+  },
+  {
+    "sectors": [
+      "AI / ML",
+      "SaaS / B2B",
+      "FinTech",
+      "HealthTech",
+      "EdTech"
+    ],
+    "summary": "Accelerator for Indian tech startups, with a strong focus on AI.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "google-for-startups-india",
+    "name": "Google for Startups Accelerator: India",
+    "organisation": "Google",
+    "type": "accelerator",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue",
+      "Scaling"
+    ],
+    "what_you_get": {
+      "money": null,
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_look_for": [
+      "Product in market with users",
+      "Technical team",
+      "Strong use of AI or cloud"
+    ],
+    "fit_signals": {
+      "technical_founder": "required",
+      "min_team_size": null,
+      "full_time": true,
+      "student_only": false
+    },
+    "application_link": "https://startup.google.com/",
+    "what_they_take": {
+      "kind": "unknown",
+      "equity_percent": null,
+      "notes": null
+    }
+  },
+  {
+    "sectors": [],
+    "summary": "Cloud credits, developer tools and resources. Usually open to very early founders.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Credits expire, so apply when you're ready to build."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "microsoft-founders-hub",
+    "name": "Microsoft for Startups Founders Hub",
+    "organisation": "Microsoft",
+    "type": "grant",
+    "stages_accepted": [
+      "Idea",
+      "Validating",
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": "Cloud credits (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": false
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": "Credits, not cash. Confirm current terms."
+    },
+    "what_they_look_for": [
+      "Building a software product",
+      "Basic company details"
+    ],
+    "fit_signals": {
+      "technical_founder": "preferred",
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    },
+    "application_link": "https://www.microsoft.com/en-us/startups"
+  },
+  {
+    "sectors": [],
+    "summary": "Peak XV's accelerator for early-stage startups in India and Southeast Asia.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Highly selective. Takes equity."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "surge",
+    "name": "Surge",
+    "organisation": "Peak XV Partners",
+    "type": "accelerator",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": "Investment (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "equity",
+      "equity_percent": null,
+      "notes": "Equity investment. Terms being verified."
+    },
+    "what_they_look_for": [
+      "Exceptional founding team",
+      "Large market",
+      "Early product or traction"
+    ],
+    "fit_signals": {
+      "technical_founder": "preferred",
+      "min_team_size": null,
+      "full_time": true,
+      "student_only": false
+    },
+    "application_link": "https://www.peakxv.com/"
+  },
+  {
+    "sectors": [],
+    "summary": "Residency where individuals find cofounders and build from day zero, with pre-seed investment.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Requires full-time commitment. Usually not compatible with being a student."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "antler-india",
+    "name": "Antler India",
+    "organisation": "Antler",
+    "type": "investor",
+    "stages_accepted": [
+      "Exploring",
+      "Idea",
+      "Validating"
+    ],
+    "what_you_get": {
+      "money": "Pre-seed investment (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "equity",
+      "equity_percent": null,
+      "notes": "Equity on investment. Terms being verified."
+    },
+    "what_they_look_for": [
+      "Strong individual track record",
+      "Full-time commitment",
+      "Ability to find and work with cofounders"
+    ],
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": true,
+      "student_only": false
+    },
+    "application_link": "https://www.antler.co/"
+  },
+  {
+    "sectors": [],
+    "summary": "Early-stage investor that writes first cheques into Indian startups.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Takes equity. Understand dilution before applying."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "100x-vc",
+    "name": "100X.VC",
+    "organisation": "100X.VC",
+    "type": "investor",
+    "stages_accepted": [
+      "Building",
+      "Early Revenue"
+    ],
+    "what_you_get": {
+      "money": "Investment (amount being verified)",
+      "mentorship": false,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "equity",
+      "equity_percent": null,
+      "notes": "Invests via instrument convertible to equity. Terms being verified."
+    },
+    "what_they_look_for": [
+      "Working product",
+      "Early traction",
+      "Committed founders"
+    ],
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": true,
+      "student_only": false
+    },
+    "application_link": "https://www.100x.vc/"
+  },
+  {
+    "sectors": [],
+    "summary": "The best-known global accelerator. Highly selective, with investment and a strong network.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Acceptance rate is very low. Treat it as a stretch."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "y-combinator",
+    "name": "Y Combinator",
+    "organisation": "Y Combinator",
+    "type": "accelerator",
+    "stages_accepted": [
+      "Validating",
+      "Building",
+      "Early Revenue",
+      "Scaling"
+    ],
+    "what_you_get": {
+      "money": "Investment (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "equity",
+      "equity_percent": null,
+      "notes": "Standard deal includes equity. Terms being verified."
+    },
+    "what_they_look_for": [
+      "Technical founder who builds",
+      "Fast progress",
+      "Clear insight into users",
+      "Full-time commitment"
+    ],
+    "fit_signals": {
+      "technical_founder": "preferred",
+      "min_team_size": 2,
+      "full_time": true,
+      "student_only": false
+    },
+    "application_link": "https://www.ycombinator.com/apply"
+  },
+  {
+    "sectors": [],
+    "summary": "National hackathon where student teams solve problem statements from ministries and industry.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [
+      "Teams register through their college's SPOC."
+    ],
+    "verified": false,
+    "last_checked": null,
+    "slug": "smart-india-hackathon",
+    "name": "Smart India Hackathon",
+    "organisation": "Government of India",
+    "type": "competition",
+    "stages_accepted": [
+      "Exploring",
+      "Idea",
+      "Validating"
+    ],
+    "what_you_get": {
+      "money": "Prizes (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": null
+    },
+    "what_they_look_for": [
+      "Team of students",
+      "Working solution to a given problem statement",
+      "Technical execution"
+    ],
+    "fit_signals": {
+      "technical_founder": "preferred",
+      "min_team_size": 2,
+      "full_time": false,
+      "student_only": true
+    },
+    "application_link": "https://www.sih.gov.in/"
+  },
+  {
+    "sectors": [],
+    "summary": "A large business model competition in Asia, open to early-stage ideas and startups.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "eureka-iitb",
+    "name": "Eureka!",
+    "organisation": "E-Cell, IIT Bombay",
+    "type": "competition",
+    "stages_accepted": [
+      "Idea",
+      "Validating",
+      "Building"
+    ],
+    "what_you_get": {
+      "money": "Prizes (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": null
+    },
+    "what_they_look_for": [
+      "Clear business model",
+      "Market understanding",
+      "Evidence of demand"
+    ],
+    "application_link": "https://www.ecell.in/",
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": null,
+      "full_time": false,
+      "student_only": false
+    }
+  },
+  {
+    "sectors": [
+      "Social Impact",
+      "ClimateTech",
+      "AgriTech",
+      "HealthTech",
+      "EdTech"
+    ],
+    "summary": "Global student competition for social enterprises, starting with on-campus rounds.",
+    "deadline": null,
+    "typical_timeline": null,
+    "red_flags": [],
+    "verified": false,
+    "last_checked": null,
+    "slug": "hult-prize",
+    "name": "Hult Prize",
+    "organisation": "Hult Prize Foundation",
+    "type": "competition",
+    "stages_accepted": [
+      "Idea",
+      "Validating",
+      "Building"
+    ],
+    "what_you_get": {
+      "money": "Prize money (amount being verified)",
+      "mentorship": true,
+      "workspace": false,
+      "network": true
+    },
+    "what_they_take": {
+      "kind": "none",
+      "equity_percent": null,
+      "notes": null
+    },
+    "what_they_look_for": [
+      "Measurable social impact",
+      "Student team",
+      "Viable business model"
+    ],
+    "fit_signals": {
+      "technical_founder": null,
+      "min_team_size": 2,
+      "full_time": false,
+      "student_only": true
+    },
+    "application_link": "https://www.hultprize.org/"
+  }
+]

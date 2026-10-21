@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --blue: #0562ef;
+  --tick: #9ec6f7;
+  --ink: #0b1015;
+  --rule: #0b10151a;
+}
+body { background: #f4f4f6; color: var(--ink); font-size: 16px; -webkit-font-smoothing: antialiased; }
+.tnum { font-variant-numeric: tabular-nums; }
+h1, h2, h3 { letter-spacing: -0.03em; text-wrap: balance; }
+::selection { background: #0562ef; color: #fffbf5; }
+
+@layer components {
+  /* Mono micro-label, e.g. "01 / STAGE" */
+  .label { @apply font-mono text-[11px] uppercase tracking-[0.08em] text-slate-500; }
+
+  /* Corner tick marks: the signature frame. */
+  .ticks { position: relative; }
+  .ticks::after {
+    content: ""; pointer-events: none; position: absolute; inset: -1px;
+    --tk: var(--tick-color, #0b101540);
+    background:
+      linear-gradient(var(--tk), var(--tk)) left top / 8px 1px, linear-gradient(var(--tk), var(--tk)) left top / 1px 8px,
+      linear-gradient(var(--tk), var(--tk)) right top / 8px 1px, linear-gradient(var(--tk), var(--tk)) right top / 1px 8px,
+      linear-gradient(var(--tk), var(--tk)) left bottom / 8px 1px, linear-gradient(var(--tk), var(--tk)) left bottom / 1px 8px,
+      linear-gradient(var(--tk), var(--tk)) right bottom / 8px 1px, linear-gradient(var(--tk), var(--tk)) right bottom / 1px 8px;
+    background-repeat: no-repeat;
+    transition: inset .36s cubic-bezier(.23,1,.32,1);
+  }
+  .ticks-hover:hover::after { inset: -5px; --tk: #0562ef; }
+
+  /* Blueprint grid background */
+  .blueprint {
+    background-image:
+      linear-gradient(to right, #0b10150d 1px, transparent 1px),
+      linear-gradient(to bottom, #0b10150d 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+  .blueprint-dark {
+    background-image:
+      linear-gradient(to right, #ffffff10 1px, transparent 1px),
+      linear-gradient(to bottom, #ffffff10 1px, transparent 1px);
+    background-size: 28px 28px;
+  }
+}

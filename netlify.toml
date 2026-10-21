@@ -1,0 +1,12 @@
+# Netlify: the Next.js runtime is detected automatically (@netlify/plugin-nextjs / OpenNext).
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Note: vercel.json crons do NOT run on Netlify, and Netlify functions time out after ~26s, so long jobs
+# (program ingest, discovery, idea collection, "Run now", "Fill empty with AI") should be run from a laptop:
+#   npm run ingest · npm run discover · npm run ideas -- collect · npm run ideas -- estimate
+# They write to the same Supabase database, so the live site shows the results.
